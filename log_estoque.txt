@@ -1,0 +1,10 @@
+[30/05/2026 21:54:54] INSERÇÃO - Produto "PC Gamer" (Qtd: 20.0) cadastrado com sucesso.
+[30/05/2026 21:55:02] INSERÇÃO - Produto "Cadeira Gamer" (Qtd: 19.0) cadastrado com sucesso.
+[30/05/2026 21:55:15] INSERÇÃO - Produto "Teclado Mecânico" (Qtd: 15.0) cadastrado com sucesso.
+[30/05/2026 21:55:25] INSERÇÃO - Produto "PC" (Qtd: 50.0) cadastrado com sucesso.
+[30/05/2026 21:55:38] ATUALIZAÇÃO - Produto "PC" alterado para "PC Intel I5" (Nova Qtd: 25.0, Novo Preço: 3000.0).
+[30/05/2026 21:55:49] INSERÇÃO - Produto "Lixeira" (Qtd: 2.0) cadastrado com sucesso.
+[30/05/2026 21:55:52] EXCLUSÃO - Produto "Lixeira" removido do sistema.
+[30/05/2026 21:56:09] ATUALIZAÇÃO - Produto "PC Intel I5" alterado para "PC Intel i5" (Nova Qtd: 23.0, Novo Preço: 2900.0).
+[31/05/2026 00:08:17] ATUALIZAÇÃO - Produto "PC Intel i5" alterado para "PC Intel" (Nova Qtd: 23.0, Novo Preço: 3000.0).
+[31/05/2026 00:08:26] EXCLUSÃO - Produto "PC Intel" removido do sistema.
