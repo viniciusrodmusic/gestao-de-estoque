@@ -1,6 +1,6 @@
 # 📦 Sistema de Gestão de Estoque
 
-Um aplicativo desktop intuitivo para gerenciamento de estoque com interface gráfica em Python, desenvolvido como projeto da Estácio.
+Uma aplicação desktop intuitivo para gerenciamento de estoque com interface gráfica em Python, projeto focado em desenvolver através da influência da metodologia Rapid Application Development(RAD).
 
 ## � Screenshots
 
@@ -22,7 +22,7 @@ Este sistema oferece uma solução completa para gerenciar produtos em estoque, 
 ## 🛠️ Tecnologias Utilizadas
 
 - **Python 3**
-- **Tkinter** - Framework para criação de interface gráfica
+- **Tkinter** - Módulo nativo para criação de interface gráfica
 - **SQLite3** - Banco de dados embutido
 - **Datetime** - Para registro de timestamps nas operações
 
@@ -78,20 +78,7 @@ O arquivo `log_estoque.txt` mantém um histórico detalhado de todas as operaç�
 [31/05/2026 00:08:26] EXCLUSÃO - Produto "PC Intel" removido do sistema.
 ```
 
-## 🎨 Design
-
-A interface utiliza um esquema de cores personalizadas:
-- **Fundo Principal**: Azul claro (#C6DEEF)
-- **Campos de Entrada**: Azul suave (#AECBE0)
-- **Botões Neutros**: Cinza (#5E708B)
-- **Botão Deletar**: Vermelho (#F25E65)
-- **Botão Atualizar**: Amarelo (#f2c772)
-
 ## 👨‍💻 Autor
 
-**Antonio Vinicius Rodrigues**  
+**Vinícius Rod**  
 LinkedIn: [viniciusrodmusic](https://linkedin.com/in/viniciusrodmusic/)
-
----
-
-> **Nota**: Esta documentação foi gerada com assistência de IA para melhorar a clareza e completude do projeto. 🤖
